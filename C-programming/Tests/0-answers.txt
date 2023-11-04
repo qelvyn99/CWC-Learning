@@ -1,0 +1,18 @@
+*Answers*
+1.Header files also known as directives i think ,are files which include declaration of functions,std library which is a bunch of codes in the library which are hidden.You did not tell us the file extension for header files i think,but just checked and it is .h
+
+2.The -o included in compilation stage lets it stop at the compilation stage but i am thinking it shows that we are compiling object files
+
+3.Wall-means you are telling the computer to warn you of any additional warnings
+Werror-this shows you all the errors
+wextra-gives you more possible warnings 
+pedantic-makes sure you are on track
+std=gnu89
+
+4.alias gcc_flags=gcc -Wall -Werror -Wextra -pedantic -std=gnu89 
+
+5.It is fast
+it is versatile 
+it does not entail alot
+has direct memory access
+it is a mature language
