@@ -1,0 +1,26 @@
+1. variable is a named storage location in the computer's memory where you can store and manipulate data.
+1a. A realife example to depict a variable in C, is like a labeled storage container which can hold differnt types of objects.the objects are re refered toa s the information here,and these are broken down into numbers,words,which is the data.
+
+2.32-Bit System:
+
+char: 1 byte
+short: 2 bytes
+int: 4 bytes
+long: 4 bytes
+long long: 8 bytes
+float: 4 bytes
+double: 8 bytes
+long double: Typically 12 or 16 bytes
+Pointers: 4 bytes (since it's a 32-bit system, addresses are 32 bits)
+
+64-Bit System:
+
+char: 1 byte
+short: 2 bytes
+int: 4 bytes
+long: 8 bytes
+long long: 8 bytes
+float: 4 bytes
+double: 8 bytes
+long double: Typically 16 bytes
+Pointers: 8 bytes (since it's a 64-bit system, addresses are 64 bits)
