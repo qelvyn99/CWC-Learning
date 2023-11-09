@@ -3,8 +3,8 @@
 int main(void)/*Entry point of the program*/
 
 {
-	char* Student_Name = "Kelvin Nyantakyi Owusu";
-	char* Residence = "Tantra Hills";
+	char *Student_Name = "Kelvin Nyantakyi Owusu";
+	char *Residence = "Tantra Hills";
 	int Age = 24;
 	float Height = 5.5;
 	char Gender = 'M';
@@ -21,7 +21,7 @@ int main(void)/*Entry point of the program*/
 	printf("Age:%d\n",Age);
 
 	/*prints the height of the student in inches*/
-	printf("Height(in inches):%f\n",Height);
+	printf("Height(in inches):%.2f\n",Height);
 
 	/*prints the gender of the student*/
 	printf("Gender(M or F):%c\n",Gender);
