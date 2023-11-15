@@ -1,0 +1,3 @@
+what is the use of this instruction: %[^\n]%*c in the scan f function?
+
+The format specifier %[^\n]%*c in the scanf function in C is used to read a string until a newline character ('\n') is encountered. 
