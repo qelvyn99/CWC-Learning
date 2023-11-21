@@ -3,8 +3,8 @@
 int main(void)/*Entry point of the program*/
 
 {
-	char *Student_Name[50];
-	char *Residence[50];
+	char Student_Name[50];
+	char Residence[50];
 	int Age;
 	float Height;
 	char Gender;
