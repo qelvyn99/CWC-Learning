@@ -37,7 +37,7 @@ int main(void)/*Entry point of the program*/
 
 	/*takes and prints the gender of the student*/
 	printf("Gender:");
-	scanf("%c", &Gender);
+	scanf(" %c", &Gender);
 	
 
 	printf("Student's name is %s\n", Student_Name);
